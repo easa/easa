@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting a job. Also my open source libraries here
 - 💬 Ask me about software development, protocols and methods
 - 📫 How to reach me: find me by @eisanodehi
-- 😄 Pronouns: easa
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: I'm 230 pounds and I'm not fat
