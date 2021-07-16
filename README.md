@@ -1,14 +1,4 @@
 ### Hi there 👋
 
-<!--
-**easa/easa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-- 🔭 I’m still trying to get a job in Belgium
-- 🌱 I’m currently learning google cloud functions
-<!-- - 👯 I’m looking to collaborate on applications with computational difficulties -->
-- 🤔 I’m looking for help with getting a full-time job out of Iran >______<
-- 💬 Ask me about software development, protocols and methods, javascript, typescript, machine learning, data science, AI, and stuff like these. I have a MSc in IT ;)
-- 📫 How to reach me: find me by @eisanodehi everywhere
-- 😄 Pronouns: he/him/his
-- ⚡️ Fun fact: I'm learning quantum physics and quantum computing. So I like to talk about this stuff
+My name is Issa. I'm a graduate of computer engineering at the PNU University, also managed to get a master of science in information technology at the University of Qom. I took up developing software/web-app as a career after majoring in computer software engineering. I helped to develop some software, packages, websites, and web applications with some awesome technologies such as sass, bootstrap, Javascript, Typescript, Nodejs, React, Material-ui, SQL, MongoDB, DevOps, and Scrum!  
+The capability of applications to make vast changes in society and human culture has impressed me so much. To me, the software is a way to lever up human culture and fix all misunderstandings that humans caused. My goal is to make computers think, understand, and make decisions that are more providing human rights and peace!
